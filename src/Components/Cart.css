@@ -1,0 +1,40 @@
+/* src/components/FoodDelivery.css */
+
+.food-delivery-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .food-item {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .food-item h3 {
+    margin-top: 0;
+    color: #333;
+  }
+  
+  .food-item p {
+    margin-bottom: 5px;
+  }
+  
+  .food-item button {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  .food-item button:hover {
+    background-color: #45a049;
+  }
+  

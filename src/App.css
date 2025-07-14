@@ -6,6 +6,30 @@
   height: 40vmin;
   pointer-events: none;
 }
+.bg-salmon {
+  background-color: rgb(15, 3, 2);
+  color: rgb(31, 9, 9);
+  size: 100px;
+}
+.spann{
+  margin-left: 15px;
+  color: red;
+  cursor: pointer;
+}
+.btnn{
+  
+  background-color: #5ced73;
+}
+.loginback{
+  background-image: url(./photo/food-delivery-green-poster-oi97lp6ogs4prjzx.jpg);
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
